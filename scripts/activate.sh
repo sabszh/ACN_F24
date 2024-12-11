@@ -1,4 +1,3 @@
-. /work/notebooks_fMRI/virt_env/bin/activate
-#. /work/student_folders/mikkels_folder/notebooks_fMRI/virt_env/bin/activate
-python -m ipykernel install --user --name=virt_env
+. /work/SabrinaSchrollZakiHansen#5217/ACN_F24/.venv/bin/activiate
+python -m ipykernel install --user --name=.venv
 echo Done! Remember changing the kernel in Jupyter.
